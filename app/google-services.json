@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "253110564831",
+    "firebase_url": "https://dispositivos-moviles-a.firebaseio.com",
+    "project_id": "dispositivos-moviles-a",
+    "storage_bucket": "dispositivos-moviles-a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:253110564831:android:93f6b1f40978ca857d366a",
+        "android_client_info": {
+          "package_name": "xyz.kainotomia.ejemplofirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "253110564831-hlcjtvvpuda2au05c46ot3rr45f930o6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhVP_V__2mmRtQHynl6u_QEOtQ84ac6Fc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "253110564831-hlcjtvvpuda2au05c46ot3rr45f930o6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
